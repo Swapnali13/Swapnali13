@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Swapnali13
-- 👀 I’m interested in Web development and designing. 
-- 🌱 I’m currently learning in ENTC Engg from DYPIEMR Pune
+- 👋 I am Exploring App Devemopment and Web Desining.
+- 👀 Ask me about Development.
+- 🌱 
 
 
 <!---
