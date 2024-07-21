@@ -1,7 +1,4 @@
-- 👋 I am Exploring App Devemopment and Web Desining.
-- 👀 Ask me about Development.
-- 🌱 
-
+ello, I'm Swapnali .Interested in learning and exploring more about Platform/Infra engineering, Frontend and Backend Development.
 
 <!---
 Swapnali13/Swapnali13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
